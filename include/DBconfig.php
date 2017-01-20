@@ -1,8 +1,8 @@
 <?php
 
-define('DB_USERNAME', 'm14689_admin');
-define('DB_PASSWORD', 'zaq1@WSX');
-define('DB_HOST', 'mysql0.mydevil.net');
-define('DB_NAME', 'm14689_php');
+define('DB_USERNAME', USERNAME);
+define('DB_PASSWORD', PASSWORD);
+define('DB_HOST', SERVER);
+define('DB_NAME', DBNAME);
 
 
